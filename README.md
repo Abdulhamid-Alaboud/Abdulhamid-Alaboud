@@ -2,19 +2,19 @@
 ### AI & Computer Vision Engineer | Computer Science Graduate (Jan 2027)
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdulhamid-alaboud-b8aa75249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Alaboudabdulhamid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Khobar%20%7C%20Riyadh%2C%20Saudi%20Arabia-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <a href="https://www.linkedin.com/in/abdulhamid-alaboud-b8aa75249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Alaboudabdulhamid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Region-Eastern%20Region%20%26%20Riyadh%2C%20Saudi%20Arabia-1e293b?style=for-the-badge" alt="Region" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 **B.Sc. in Computer Science** from **Jazan University** (Graduating **January 2027**).
-- 🧠 Passionate about **Computer Vision, Edge AI, and Real-Time Deep Learning Deployment**.
+- 🧠 Passionate about **Computer Vision, Edge AI optimization, and Real-Time Deep Learning Deployment**.
 - 📱 Hands-on experience developing on-device mobile AI systems with **ONNX Runtime Mobile & Kotlin (Jetpack Compose)**.
 - 🏢 Former **IT Infrastructure & Networking Intern** at the **Ministry of Education** (Eastern Province).
-- 🎯 Seeking entry-level **AI / Computer Vision Engineer** roles and **Graduate Development Programs (GDP)** in Khobar, Dhahran, Dammam, and Riyadh.
+- 🎯 Seeking entry-level **AI / Computer Vision Engineer** roles and **Graduate Development Programs (GDP)** in the Eastern Region and Riyadh.
 
 ---
 
