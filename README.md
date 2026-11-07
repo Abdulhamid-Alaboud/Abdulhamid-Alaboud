@@ -1,5 +1,5 @@
 # Hi there, I'm Abdulhamid Alaboud 👋
-### AI & Computer Vision Engineer | Computer Science Graduate (Jan 2027)
+### Computer Science Graduate (Jan 2027) | AI, Data Science & Software Systems Engineer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulhamid-alaboud-b8aa75249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -10,38 +10,39 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **B.Sc. in Computer Science** from **Jazan University** (Graduating **January 2027**).
-- 🧠 Passionate about **Computer Vision, Edge AI optimization, and Real-Time Deep Learning Deployment**.
-- 📱 Hands-on experience developing on-device mobile AI systems with **ONNX Runtime Mobile & Kotlin (Jetpack Compose)**.
-- 🏢 Former **IT Infrastructure & Networking Intern** at the **Ministry of Education** (Eastern Province).
-- 🎯 Seeking entry-level **AI / Computer Vision Engineer** roles and **Graduate Development Programs (GDP)** in the Eastern Region and Riyadh.
+- 🎓 **B.Sc. in Computer Science** from **Jazan University** (**Accelerated Graduation: January 7, 2027** — Available for immediate full-time start).
+- 📊 Strong multidimensional excellence in **Data Science, Data Mining, Data Warehousing, Predictive Simulation, and Algorithmic Modeling**.
+- 🧠 Experienced in building end-to-end **Artificial Intelligence, Deep Learning, and Intelligent Vision Systems** (`PyTorch`, `TensorFlow`, `Scikit-learn`, `ONNX Runtime`).
+- ☁️ Solid foundation in **Cloud & Distributed Computing, Enterprise Software Engineering, Applied Cryptography, Digital Forensics, and IoT Systems**.
+- 🏢 Former **IT Infrastructure & Enterprise Networking Intern** at the **Ministry of Education** (Eastern Province).
+- 🎯 Seeking **Graduate Development Programs (GDP)** and entry-level roles in **Data Science, AI/ML, Software & Cloud Engineering, or IT Systems** in the Eastern Province and Riyadh.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Technical Stack & Domains
 
-| Domain | Technologies & Libraries |
+| Domain | Technologies & Core Competencies |
 | :--- | :--- |
-| **AI & Computer Vision** | `PyTorch` `YOLOv11` `RT-DETR` `OpenCV` `ONNX Runtime Mobile` `TensorFlow` |
-| **Machine Learning & Data** | `Scikit-learn` `Pandas` `NumPy` `SMOTE` `Matplotlib` `EDA` |
-| **Mobile & Web Development** | `Kotlin` `Jetpack Compose` `Android SDK` `CameraX` `PHP` `JavaScript` `HTML5/CSS3` |
-| **Databases & Tools** | `MySQL` `SQLite` `Git` `GitHub` `Linux Basics` `VS Code` `Android Studio` |
+| **Data Science & Analytics** | `Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Data Mining` `Data Warehousing` `Predictive Modeling` `EDA` |
+| **AI & Deep Learning** | `PyTorch` `TensorFlow` `Keras` `YOLOv11` `RT-DETR` `OpenCV` `ONNX Runtime Mobile` `Edge AI` |
+| **Software & Cloud Systems** | `Java` `Kotlin` `C++` `PHP` `JavaScript` `OOP` `Algorithmic Logic` `Cloud & Distributed Computing` `MySQL` `SQLite` |
+| **Infrastructure & Security** | `Enterprise Networking (VLANs, HSRP, LACP, ACLs)` `Applied Cryptography` `Digital Forensics` `IoT Systems` `Git` `Linux` |
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Technical Projects
 
-#### 🚗 [VISION ADAS] Real-Time Intelligent Driving Agent (Graduation Project)
-- **Edge AI Computer Vision system** and native Android app running real-time on-device hazard detection without internet.
-- Custom-trained **YOLOv11** & **RT-DETR** optimized with **ONNX Runtime Mobile** for high-FPS detection of pedestrians, speed bumps, and traffic signs.
-- Multi-stage verification using geometric spatial filtering, OCR for speed signs, and bilingual Arabic/English voice warnings.
+#### 🚗 [VISION: Intelligent Edge AI & Real-Time Hazard Analytics System] (Graduation Project)
+- End-to-end intelligent mobile system and Edge AI inference pipeline running real-time hazard detection without cloud dependency.
+- Trained and optimized deep learning models (**YOLOv11** & **RT-DETR**) exported to **ONNX Runtime Mobile** for low-latency execution.
+- Deterministic algorithmic verification engines combining spatial geometry, temporal tracking, and OCR with bilingual Arabic/English alerts.
 
-#### 🩺 [COVID-19 Case Prediction & Classification Pipeline](https://github.com/Abdulhamid-Alaboud/Covid19-Case-Prediction)
-- Two-stage Machine Learning pipeline (**Logistic Regression + Random Forest**) achieving **99.7% accuracy**.
-- Comprehensive Exploratory Data Analysis (EDA), feature engineering, and patient severity scoring metrics.
+#### 🩺 [Two-Stage Clinical Data Mining & Infection Classification ML Pipeline](https://github.com/Abdulhamid-Alaboud/Covid19-Case-Prediction)
+- Two-stage Data Science & Machine Learning pipeline (**Logistic Regression + Random Forest**) achieving **99.7% overall accuracy**.
+- Statistical Exploratory Data Analysis (EDA), feature engineering, and clinical severity modeling (CPIS metric).
 
-#### 🍽️ [Dynamic Restaurant Ordering System](https://github.com/Abdulhamid-Alaboud/Restaurant-Menu-Website)
-- Full-stack web application with PHP, relational MySQL database, and interactive cart session workflows.
+#### 🍽️ [Full-Stack Relational Database & Online Ordering Web System](https://github.com/Abdulhamid-Alaboud/Restaurant-Menu-Website)
+- Full-stack enterprise web application built with PHP, normalized relational MySQL database schemas, and stateful session cart workflows.
 
 ---
 
