@@ -43,6 +43,5 @@ Edge AI • Computer Vision • Data Science • Distributed & Software Systems
 ### Experience & Verified Credentials
 
 - **IT Infrastructure & Enterprise Networking Intern** — *Ministry of Education (Eastern Province)*
-- **[DeepLearning.AI TensorFlow Developer](https://coursera.org/verify/professional-cert/3ZBMT94NGANJ)** — *Coursera (Feb 2026)*
+- **[DeepLearning.AI TensorFlow Developer Professional Certificate](https://coursera.org/verify/professional-cert/3ZBMT94NGANJ)** — *DeepLearning.AI & Coursera (Feb 2026)*
 - **[Data Science Essentials with Python (40h)](https://www.credly.com/badges/ac093d2b-b2b9-4cc3-9691-758df35294ea)** — *Cisco Networking Academy (Jul 2026)*
-- **[Python Essentials 2 (40h)](https://www.credly.com/badges/eefd5aa4-eef8-4c60-b411-94d90d0b8198)** — *Cisco Networking Academy (Jul 2026)*
