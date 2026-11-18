@@ -24,10 +24,8 @@ Edge AI • Computer Vision • Data Science • Distributed & Software Systems
 | Project | Domain | Highlights |
 | :--- | :--- | :--- |
 | **[VISION: Offline-First Edge AI Driving Agent](https://github.com/Abdulhamid-Alaboud/vision-adas-edge-ai)** | Edge AI / Android | 8,842-image Arabic road dataset; 4-model latency benchmark; `YOLOv11n` FP32 ONNX (`34.58 ms` CPU, `95.82%` unseen mAP@50); Bayesian HSV + OCR dual verification (20 classes). |
-| **[Two-Stage COVID-19 Clinical ML Pipeline](https://github.com/Abdulhamid-Alaboud/Covid19-Case-Prediction)** | Healthcare ML | Two-stage classification (`Logistic Regression` + `Random Forest`) achieving `99.7%` accuracy, with EDA and CPIS severity modeling. |
-| **[Handwritten Digit Recognition CNN](https://github.com/Abdulhamid-Alaboud/Handwritten-Digit-Recognition-CNN)** | Deep Learning | LeNet-style CNN achieving `99%` accuracy on MNIST with full evaluation pipeline. |
-| **[Full-Stack Restaurant Ordering System](https://github.com/Abdulhamid-Alaboud/Restaurant-Menu-Website)** | Web Systems | Relational MySQL schema with stateful PHP ordering and session cart workflows. |
-| **[Car Rental Fleet Information System](https://github.com/Abdulhamid-Alaboud/Car-Rental-Information-System)** | Enterprise Java | Real-time vehicle fleet registration and availability tracking using Java Servlets, JSP, and Access. |
+| **[Two-Stage COVID-19 Clinical ML Pipeline](https://github.com/Abdulhamid-Alaboud/Covid19-Case-Prediction)** | Healthcare ML | Two-stage classification (`Logistic Regression` + `Random Forest`) achieving `99.69%` accuracy, with EDA and CPIS severity modeling. |
+| **[Full-Stack Restaurant Ordering System](https://github.com/Abdulhamid-Alaboud/Restaurant-Menu-Website)** | Web Systems | Relational MySQL schema with stateful PHP ordering, calorie analysis, and PDO-secured checkout workflows. |
 
 ---
 
