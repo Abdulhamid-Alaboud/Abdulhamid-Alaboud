@@ -2,8 +2,8 @@
 
 # Abdulhamid Alaboud
 
-**B.Sc. in Computer Science (Jan 2027) — Jazan University**  
-Edge AI • Computer Vision • Data Science • Distributed & Software Systems
+**AI & Computer Vision Engineer | Computer Science Student (Expected Jan 2027)**  
+Building intelligent vision systems, offline-first Edge AI applications, and applied machine learning pipelines.
 
 [LinkedIn](https://www.linkedin.com/in/abdulhamid-alaboud-b8aa75249) · [Email](mailto:Alaboudabdulhamid@gmail.com) · Eastern Province & Riyadh, Saudi Arabia
 
@@ -11,37 +11,55 @@ Edge AI • Computer Vision • Data Science • Distributed & Software Systems
 
 ---
 
-### Research & Engineering Focus
+### Research & Engineering Interests
 
-- **Edge AI & Real-Time Computer Vision:** Designing offline-first, low-latency perception pipelines for mobile and embedded devices (`YOLOv11`, `RT-DETRv2`, `D-FINE`, `ONNX Runtime`, `Google ML Kit`).
-- **Applied Machine Learning & Data Science:** End-to-end statistical modeling, leak-free dataset curation, predictive analytics, and clinical/scientific classification (`PyTorch`, `TensorFlow`, `Scikit-learn`).
-- **Software, Cloud & Security Systems:** Building full-stack and mobile architectures (`Kotlin`, `Jetpack Compose`, `Java`, `SQLite`, `MySQL`) grounded in applied cryptography, digital forensics, and enterprise networking.
+- **Edge AI & Real-Time Computer Vision:** Designing offline-first, low-latency object detection and verification pipelines for mobile hardware (`YOLOv11`, `RT-DETRv2`, `D-FINE`, `ONNX Runtime`, `OpenCV`, `Google ML Kit`).
+- **Applied Machine Learning & Data Science:** Leak-free dataset curation, multi-architecture latency–accuracy benchmarking, statistical modeling, and clinical/scientific classification (`PyTorch`, `TensorFlow`, `Scikit-learn`).
+- **Software, Cloud & Infrastructure Systems:** Building Android (`Kotlin`, `Jetpack Compose`), relational database (`SQLite`, `MySQL`), and enterprise networking systems grounded in applied cryptography and security.
 
 ---
 
-### Selected Systems & Projects
+### Featured Projects
 
-| Project | Domain | Highlights |
+| Project | Domain | Engineering Highlights |
 | :--- | :--- | :--- |
-| **[VISION: Offline-First Edge AI Driving Agent](https://github.com/Abdulhamid-Alaboud/vision-adas-edge-ai)** | Edge AI / Android | 8,842-image Arabic road dataset; 4-model latency benchmark; `YOLOv11n` FP32 ONNX (`34.58 ms` CPU, `95.82%` unseen mAP@50); Bayesian HSV + OCR dual verification (20 classes). |
-| **[Two-Stage COVID-19 Clinical ML Pipeline](https://github.com/Abdulhamid-Alaboud/Covid19-Case-Prediction)** | Healthcare ML | Two-stage classification (`Logistic Regression` + `Random Forest`) achieving `99.69%` accuracy, with EDA and CPIS severity modeling. |
-| **[Full-Stack Restaurant Ordering System](https://github.com/Abdulhamid-Alaboud/Restaurant-Menu-Website)** | Web Systems | Relational MySQL schema with stateful PHP ordering, calorie analysis, and PDO-secured checkout workflows. |
+| **[VISION — Offline-First Edge AI ADAS](https://github.com/Abdulhamid-Alaboud/vision-adas-edge-ai)** | Edge AI / Computer Vision | 8,842-image leak-free Arabic road dataset; 4-architecture CPU benchmark; deployed `YOLOv11n` FP32 ONNX (`34.58 ms` CPU, `95.82%` unseen mAP@50); Bayesian HSV + OCR dual verification (20 classes); public Android APK & dataset in Releases `v1.0.0`. |
+| **[COVID-19 Case Prediction Pipeline](https://github.com/Abdulhamid-Alaboud/Covid19-Case-Prediction)** | Machine Learning / Data Science | Two-stage classification (`Logistic Regression` + `Random Forest`) with SMOTE/undersampling, EDA, CPIS regional severity metric, and documented methodological audit. |
+| **[Restaurant Menu & Ordering System](https://github.com/Abdulhamid-Alaboud/Restaurant-Menu-Website)** | Software Systems / Web | Full-stack PHP/MySQL application with PDO prepared statements, stateful session cart, calorie calculator, and reproducible SQL schema. |
 
 ---
 
-### Technical Competencies
+### Technical Skills
 
-| Area | Stack & Methods |
+*Focused on tools and methods I actively build with and can defend in technical interviews:*
+
+| Area | Core Stack |
 | :--- | :--- |
-| **AI & Computer Vision** | `PyTorch`, `TensorFlow`, `Keras`, `Scikit-learn`, `YOLOv11`, `RT-DETR`, `ONNX Runtime`, `OpenCV` |
-| **Data & Analytics** | `Python`, `SQL`, `Pandas`, `NumPy`, `EDA`, `Data Mining`, `Data Warehousing`, `Predictive Modeling` |
-| **Systems & Mobile** | `Kotlin`, `Jetpack Compose`, `CameraX`, `Java`, `C++`, `PHP`, `SQLite`, `MySQL`, `Git` |
-| **Infrastructure & Security** | `Enterprise Networking (VLANs, HSRP, LACP, ACLs)`, `Applied Cryptography`, `Digital Forensics`, `IoT` |
+| **Computer Vision & Edge AI** | `PyTorch`, `OpenCV`, `YOLOv11`, `ONNX Runtime`, `TensorFlow`, `Google ML Kit` |
+| **Data Science & ML** | `Python`, `NumPy`, `Pandas`, `Scikit-learn`, `SQL`, `Matplotlib`, `Seaborn` |
+| **Mobile & Software** | `Kotlin`, `Jetpack Compose`, `CameraX`, `SQLite`, `PHP`, `MySQL`, `Git` |
+| **Infrastructure & Security** | `Cisco IOS (VLANs, HSRP, LACP, RSTP, ACLs)`, `Cloud Fundamentals`, `Cryptography` |
+
+---
+
+### Education
+
+**B.Sc. in Computer Science** — *Jazan University* *(Expected Graduation: January 2027)*  
+*Specialized Track:* Machine Learning, Deep Learning (CNNs), Computer Vision, Artificial Intelligence, Data Science & Data Mining, Cloud & Distributed Computing, Applied Cryptography, Digital Forensics, and IoT.
+
+---
+
+### Current Focus
+
+- Finalizing real-world smartphone benchmarking, live road-test demos, and Edge AI documentation for **VISION ADAS**.
+- Exploring **Lane Detection / Road Segmentation** and **NPU/NNAPI mobile acceleration** for next-generation edge vision pipelines.
+- Open to **2027 Graduate Development Programs (GDP)** and entry-level roles in **AI/ML, Computer Vision, Data Science, or Software Engineering** in the Eastern Province and Riyadh.
 
 ---
 
 ### Experience & Verified Credentials
 
-- **IT Infrastructure & Enterprise Networking Intern** — *Ministry of Education (Eastern Province)*
+- **Data Center Intern — IT Infrastructure** — *Ministry of Education, Eastern Province (Jun – Aug 2026)*
 - **[DeepLearning.AI TensorFlow Developer Professional Certificate](https://coursera.org/verify/professional-cert/3ZBMT94NGANJ)** — *DeepLearning.AI & Coursera (Feb 2026)*
 - **[Data Science Essentials with Python (40h)](https://www.credly.com/badges/ac093d2b-b2b9-4cc3-9691-758df35294ea)** — *Cisco Networking Academy (Jul 2026)*
+- **[Cloud Computing Fundamentals](https://www.credly.com/badges/fcb1e77b-17e0-4640-b5d0-3acc2769a2d0)** — *IBM (Jul 2026)*
