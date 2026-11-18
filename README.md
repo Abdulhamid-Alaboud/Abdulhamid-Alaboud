@@ -1,55 +1,50 @@
-# Hi there, I'm Abdulhamid Alaboud 👋
-### Computer Science Graduate (Jan 2027) | AI, Data Science & Software Systems Engineer
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdulhamid-alaboud-b8aa75249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Alaboudabdulhamid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Region-Eastern%20Region%20%26%20Riyadh%2C%20Saudi%20Arabia-1e293b?style=for-the-badge" alt="Region" />
-</p>
+# Abdulhamid Alaboud
 
----
+**B.Sc. in Computer Science (Jan 2027) — Jazan University**  
+Edge AI • Computer Vision • Data Science • Distributed & Software Systems
 
-### 👨‍💻 About Me
-- 🎓 **B.Sc. in Computer Science** from **Jazan University** (**Accelerated Graduation: January 7, 2027** — Available for immediate full-time start).
-- 📊 Strong multidimensional excellence in **Data Science, Data Mining, Data Warehousing, Predictive Simulation, and Algorithmic Modeling**.
-- 🧠 Experienced in building end-to-end **Artificial Intelligence, Deep Learning, and Intelligent Vision Systems** (`PyTorch`, `TensorFlow`, `Scikit-learn`, `ONNX Runtime`).
-- ☁️ Solid foundation in **Cloud & Distributed Computing, Enterprise Software Engineering, Applied Cryptography, Digital Forensics, and IoT Systems**.
-- 🏢 Former **IT Infrastructure & Enterprise Networking Intern** at the **Ministry of Education** (Eastern Province).
-- 🎯 Seeking **Graduate Development Programs (GDP)** and entry-level roles in **Data Science, AI/ML, Software & Cloud Engineering, or IT Systems** in the Eastern Province and Riyadh.
+[LinkedIn](https://www.linkedin.com/in/abdulhamid-alaboud-b8aa75249) · [Email](mailto:Alaboudabdulhamid@gmail.com) · Eastern Province & Riyadh, Saudi Arabia
+
+</div>
 
 ---
 
-### 🛠️ Technical Stack & Domains
+### Research & Engineering Focus
 
-| Domain | Technologies & Core Competencies |
+- **Edge AI & Real-Time Computer Vision:** Designing offline-first, low-latency perception pipelines for mobile and embedded devices (`YOLOv11`, `RT-DETRv2`, `D-FINE`, `ONNX Runtime`, `Google ML Kit`).
+- **Applied Machine Learning & Data Science:** End-to-end statistical modeling, leak-free dataset curation, predictive analytics, and clinical/scientific classification (`PyTorch`, `TensorFlow`, `Scikit-learn`).
+- **Software, Cloud & Security Systems:** Building full-stack and mobile architectures (`Kotlin`, `Jetpack Compose`, `Java`, `SQLite`, `MySQL`) grounded in applied cryptography, digital forensics, and enterprise networking.
+
+---
+
+### Selected Systems & Projects
+
+| Project | Domain | Highlights |
+| :--- | :--- | :--- |
+| **[VISION: Offline-First Edge AI Driving Agent](https://github.com/Abdulhamid-Alaboud/vision-adas-edge-ai)** | Edge AI / Android | 8,842-image Arabic road dataset; 4-model latency benchmark; `YOLOv11n` FP32 ONNX (`34.58 ms` CPU, `95.82%` unseen mAP@50); Bayesian HSV + OCR dual verification (20 classes). |
+| **[Two-Stage COVID-19 Clinical ML Pipeline](https://github.com/Abdulhamid-Alaboud/Covid19-Case-Prediction)** | Healthcare ML | Two-stage classification (`Logistic Regression` + `Random Forest`) achieving `99.7%` accuracy, with EDA and CPIS severity modeling. |
+| **[Handwritten Digit Recognition CNN](https://github.com/Abdulhamid-Alaboud/Handwritten-Digit-Recognition-CNN)** | Deep Learning | LeNet-style CNN achieving `99%` accuracy on MNIST with full evaluation pipeline. |
+| **[Full-Stack Restaurant Ordering System](https://github.com/Abdulhamid-Alaboud/Restaurant-Menu-Website)** | Web Systems | Relational MySQL schema with stateful PHP ordering and session cart workflows. |
+| **[Car Rental Fleet Information System](https://github.com/Abdulhamid-Alaboud/Car-Rental-Information-System)** | Enterprise Java | Real-time vehicle fleet registration and availability tracking using Java Servlets, JSP, and Access. |
+
+---
+
+### Technical Competencies
+
+| Area | Stack & Methods |
 | :--- | :--- |
-| **Data Science & Analytics** | `Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Data Mining` `Data Warehousing` `Predictive Modeling` `EDA` |
-| **AI & Deep Learning** | `PyTorch` `TensorFlow` `Keras` `YOLOv11` `RT-DETR` `OpenCV` `ONNX Runtime Mobile` `Edge AI` |
-| **Software & Cloud Systems** | `Java` `Kotlin` `C++` `PHP` `JavaScript` `OOP` `Algorithmic Logic` `Cloud & Distributed Computing` `MySQL` `SQLite` |
-| **Infrastructure & Security** | `Enterprise Networking (VLANs, HSRP, LACP, ACLs)` `Applied Cryptography` `Digital Forensics` `IoT Systems` `Git` `Linux` |
+| **AI & Computer Vision** | `PyTorch`, `TensorFlow`, `Keras`, `Scikit-learn`, `YOLOv11`, `RT-DETR`, `ONNX Runtime`, `OpenCV` |
+| **Data & Analytics** | `Python`, `SQL`, `Pandas`, `NumPy`, `EDA`, `Data Mining`, `Data Warehousing`, `Predictive Modeling` |
+| **Systems & Mobile** | `Kotlin`, `Jetpack Compose`, `CameraX`, `Java`, `C++`, `PHP`, `SQLite`, `MySQL`, `Git` |
+| **Infrastructure & Security** | `Enterprise Networking (VLANs, HSRP, LACP, ACLs)`, `Applied Cryptography`, `Digital Forensics`, `IoT` |
 
 ---
 
-### 🌟 Featured Technical Projects
+### Experience & Verified Credentials
 
-#### 🚗 [VISION: Intelligent Edge AI & Real-Time Hazard Analytics System] (Graduation Project)
-- End-to-end intelligent mobile system and Edge AI inference pipeline running real-time hazard detection without cloud dependency.
-- Trained and optimized deep learning models (**YOLOv11** & **RT-DETR**) exported to **ONNX Runtime Mobile** for low-latency execution.
-- Deterministic algorithmic verification engines combining spatial geometry, temporal tracking, and OCR with bilingual Arabic/English alerts.
-
-#### 🩺 [Two-Stage Clinical Data Mining & Infection Classification ML Pipeline](https://github.com/Abdulhamid-Alaboud/Covid19-Case-Prediction)
-- Two-stage Data Science & Machine Learning pipeline (**Logistic Regression + Random Forest**) achieving **99.7% overall accuracy**.
-- Statistical Exploratory Data Analysis (EDA), feature engineering, and clinical severity modeling (CPIS metric).
-
-#### 🍽️ [Full-Stack Relational Database & Online Ordering Web System](https://github.com/Abdulhamid-Alaboud/Restaurant-Menu-Website)
-- Full-stack enterprise web application built with PHP, normalized relational MySQL database schemas, and stateful session cart workflows.
-
----
-
-### 📜 Verified Professional Certifications
-- 🔹 **[DeepLearning.AI TensorFlow Developer](https://coursera.org/verify/professional-cert/3ZBMT94NGANJ)** — Coursera *(Feb 2026)*
-- 🔹 **[Python Essentials 2 (40 Hours)](https://www.credly.com/badges/eefd5aa4-eef8-4c60-b411-94d90d0b8198)** — Cisco Networking Academy *(Jul 2026)*
-- 🔹 **[Data Science Essentials with Python (40 Hours)](https://www.credly.com/badges/ac093d2b-b2b9-4cc3-9691-758df35294ea)** — Cisco Networking Academy *(Jul 2026)*
-
----
-⭐ *Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/abdulhamid-alaboud-b8aa75249)!*
+- **IT Infrastructure & Enterprise Networking Intern** — *Ministry of Education (Eastern Province)*
+- **[DeepLearning.AI TensorFlow Developer](https://coursera.org/verify/professional-cert/3ZBMT94NGANJ)** — *Coursera (Feb 2026)*
+- **[Data Science Essentials with Python (40h)](https://www.credly.com/badges/ac093d2b-b2b9-4cc3-9691-758df35294ea)** — *Cisco Networking Academy (Jul 2026)*
+- **[Python Essentials 2 (40h)](https://www.credly.com/badges/eefd5aa4-eef8-4c60-b411-94d90d0b8198)** — *Cisco Networking Academy (Jul 2026)*
