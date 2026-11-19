@@ -5,7 +5,7 @@
 **AI & Computer Vision Engineer | Computer Science Student (Expected Jan 2027)**  
 Building intelligent vision systems, offline-first Edge AI applications, and applied machine learning pipelines.
 
-[LinkedIn](https://www.linkedin.com/in/abdulhamid-alaboud-b8aa75249) · [Email](mailto:Alaboudabdulhamid@gmail.com) · Eastern Province & Riyadh, Saudi Arabia
+[LinkedIn](https://www.linkedin.com/in/abdulhamid-alaboud) · [Email](mailto:Alaboudabdulhamid@gmail.com) · Eastern Province & Riyadh, Saudi Arabia
 
 </div>
 
