@@ -44,8 +44,8 @@ Building intelligent vision systems, offline-first Edge AI applications, and app
 
 ### Education
 
-**B.Sc. in Computer Science** — *Jazan University* *(Expected Graduation: January 2027)*  
-*Specialized Track:* Machine Learning, Deep Learning (CNNs), Computer Vision, Artificial Intelligence, Data Science & Data Mining, Cloud & Distributed Computing, Applied Cryptography, Digital Forensics, and IoT.
+**B.Sc. in Computer Science — Artificial Intelligence Track** — *Jazan University* *(Expected Graduation: January 2027)*  
+*Core Focus:* Machine Learning, Deep Learning (CNNs), Computer Vision, Artificial Intelligence, Data Science & Data Mining, Cloud & Distributed Computing, Applied Cryptography, Digital Forensics, and IoT.
 
 ---
 
